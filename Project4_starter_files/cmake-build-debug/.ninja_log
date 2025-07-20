@@ -1,0 +1,7 @@
+# ninja log v5
+0	141	1696369435673358462	CMakeFiles/Project4_starter_files.dir/Project4.cpp.o	1eb9b2af20ebdd8
+151	190	1696369514350373197	Project4_starter_files	a8fafd5b7449532d
+0	151	1696369514308821264	CMakeFiles/Project4_starter_files.dir/main.cpp.o	cbc9081372a4abac
+0	47	1695519074371155751	CMakeFiles/Project4_starter_files.dir/MyString.cpp.o	e865c44012e9a36a
+0	43	1696369558929304595	CMakeFiles/Project4_starter_files.dir/Project4.cpp.o	1eb9b2af20ebdd8
+43	79	1696369558966593693	Project4_starter_files	a8fafd5b7449532d
